@@ -1,0 +1,17 @@
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\bin\Debug\net5.0-windows\Geometric Common Ratio Calculator.exe
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\bin\Debug\net5.0-windows\Geometric Common Ratio Calculator.deps.json
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\bin\Debug\net5.0-windows\Geometric Common Ratio Calculator.runtimeconfig.json
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\bin\Debug\net5.0-windows\Geometric Common Ratio Calculator.runtimeconfig.dev.json
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\bin\Debug\net5.0-windows\Geometric Common Ratio Calculator.dll
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\bin\Debug\net5.0-windows\ref\Geometric Common Ratio Calculator.dll
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\bin\Debug\net5.0-windows\Geometric Common Ratio Calculator.pdb
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\obj\Debug\net5.0-windows\Geometric_Common_Ratio_Calculator.Form1.resources
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\obj\Debug\net5.0-windows\Geometric Common Ratio Calculator.vbproj.GenerateResource.cache
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\obj\Debug\net5.0-windows\Geometric Common Ratio Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\obj\Debug\net5.0-windows\Geometric Common Ratio Calculator.AssemblyInfoInputs.cache
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\obj\Debug\net5.0-windows\Geometric Common Ratio Calculator.AssemblyInfo.vb
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\obj\Debug\net5.0-windows\Geometric Common Ratio Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\obj\Debug\net5.0-windows\Geometric Common Ratio Calculator.dll
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\obj\Debug\net5.0-windows\ref\Geometric Common Ratio Calculator.dll
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\obj\Debug\net5.0-windows\Geometric Common Ratio Calculator.pdb
+C:\Users\mitch\source\repos\Geometric Common Ratio Calculator\Geometric Common Ratio Calculator\obj\Debug\net5.0-windows\Geometric Common Ratio Calculator.genruntimeconfig.cache
